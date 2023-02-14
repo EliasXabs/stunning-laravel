@@ -7,5 +7,9 @@
 >## apt-get
 >apt-get is used to install packages onto ur machine/server
 
-<!--ubuntu@http://ec2-52-215-12-38.eu-west-1.compute.amazonaws.com-->
-<!-- ip : 172.31.33.114 -->
+>ip : [172.31.33.114](http://172.31.33.114)
+
+>Checkpoint 4 : Used cp to copy files
+
+>chgrp : Changes the ownership of a the folder\
+>chmod : Changes the permissions of a file
