@@ -1,4 +1,6 @@
  <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+ 
+>ip : [172.31.33.114](http://172.31.33.114)
 
 # Findings
 > ## Sudo
@@ -7,7 +9,6 @@
 >## apt-get
 >apt-get is used to install packages onto ur machine/server
 
->ip : [172.31.33.114](http://172.31.33.114)
 
 >Checkpoint 4 : Used cp to copy files
 
